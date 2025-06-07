@@ -1,4 +1,4 @@
-# Hi there, I'm Nyson 👋
+# Agumya Nyson 👋
 
 ## 🚀 Full Stack Engineer | Building Scalable Web Solutions
 
@@ -32,21 +32,6 @@ I'm a dedicated Full Stack Engineer with a proven track record of developing and
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=false" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
-
----
-
 ## 🌟 What I Do
 
 - **Frontend Development**: Crafting responsive, accessible, and performant user interfaces with React, Next.js, and TypeScript
@@ -69,4 +54,4 @@ I'm a dedicated Full Stack Engineer with a proven track record of developing and
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nyson)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nysonagumya@gmail.com)
 
-⭐️ From [yourusername](https://github.com/Nysonn)
+⭐️ From [Nyson](https://github.com/Nysonn)
