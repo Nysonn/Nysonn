@@ -1,4 +1,4 @@
-# Agumya Nyson 👋
+# Hoi, Ik ben Nyson 👋
 
 ## 🚀 Full Stack Engineer | Building Scalable Web Solutions
 
@@ -54,4 +54,4 @@ I'm a dedicated Full Stack Engineer with a proven track record of developing and
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nyson)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nysonagumya@gmail.com)
 
-⭐️ From [Nyson](https://github.com/Nysonn)
+⭐️ From [Nysonn](https://github.com/Nysonn)
