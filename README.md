@@ -1,4 +1,4 @@
-# Hoi, Ik ben Nyson 👋
+# Welkom bij mij Github ik ben Nysonn👋
 
 ## 🚀 Full Stack Engineer | Building Scalable Web Solutions
 
