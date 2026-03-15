@@ -1,12 +1,12 @@
-# Welkom bij mij Github ik ben Nysonn👋
+# Welkom bij mij Github ik ben Nysonn
 
-## 🚀 Full Stack Engineer | Building Scalable Web Solutions
+## Full Stack Engineer | Building Scalable Web Solutions
 
 I'm a dedicated Full Stack Engineer with a proven track record of developing and deploying scalable web applications. My expertise spans modern front-end technologies like React, Next.js, and TypeScript, where I focus on creating intuitive user interfaces and seamless experiences. On the backend, I design and implement powerful, efficient services using Golang. I thrive on tackling complex challenges and am committed to building high-quality, performant solutions that drive business value.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -32,7 +32,7 @@ I'm a dedicated Full Stack Engineer with a proven track record of developing and
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 🌟 What I Do
+## What I Do
 
 - **Frontend Development**: Crafting responsive, accessible, and performant user interfaces with React, Next.js, and TypeScript
 - **Backend Architecture**: Building robust, scalable APIs and microservices with Golang
@@ -40,18 +40,18 @@ I'm a dedicated Full Stack Engineer with a proven track record of developing and
 - **Performance Optimization**: Ensuring applications run efficiently at scale
 - **Code Quality**: Writing clean, maintainable code with comprehensive testing
 
-## 📈 Current Focus
+## Current Focus
 
-- 🔭 Working on scalable microservices architecture
-- 🌱 Exploring advanced Golang patterns and performance optimization
-- 👯 Open to collaborating on innovative web applications
-- 💬 Ask me about React, Next.js, TypeScript, or Golang
+- Working on scalable microservices architecture
+- Exploring advanced Golang patterns and performance optimization
+- Open to collaborating on innovative web applications
+- Ask me about React, Next.js, TypeScript, or Golang
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nyson)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nysonagumya@gmail.com)
 
-⭐️ From [Nysonn](https://github.com/Nysonn)
+From [Nysonn](https://github.com/Nysonn)
